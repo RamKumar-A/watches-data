@@ -1,0 +1,444 @@
+{
+  "watches": [
+    {
+      "id": 1,
+      "brand_id": 1,
+      "name": "Rolex Submariner",
+      "price_range": "$20000",
+      "ratings": 4.5,
+      "category_id": 1,
+      "material_type": "Stainless Steel",
+      "size": "28mm",
+      "image_url": "https://shorturl.at/bhCJL"
+    },
+    {
+      "id": 2,
+      "brand_id": 1,
+      "name": "Rolex Datejust",
+      "price_range": "$25000",
+      "ratings": 4.5,
+      "category_id": 2,
+      "material_type": "Stainless Steel",
+      "size": "36mm",
+      "image_url": "https://shorturl.at/jpryC"
+    },
+    {
+      "id": 3,
+      "brand_id": 1,
+      "name": "Rolex Daytona",
+      "price_range": "$30000",
+      "ratings": 4.5,
+      "category_id": 3,
+      "material_type": "Stainless Steel",
+      "size": "24mm",
+      "image_url": "https://content.rolex.com/v7/dam/new-watches/2023/family-collection/cosmograph-daytona/search/professional-watches-cosmograph-daytona-all-models-search_m126506-0001.jpg"
+    },
+    {
+      "id": 4,
+      "brand_id": 1,
+      "name": "Rolex Oyster Perpetual",
+      "price_range": "$6000",
+      "ratings": 4.5,
+      "category_id": 5,
+      "material_type": "Stainless Steel",
+      "size": "28mm",
+      "image_url": "https://shorturl.at/hvzW9"
+    },
+    {
+      "id": 5,
+      "brand_id": 1,
+      "name": "Rolex GMT-Master",
+      "price_range": "$15000",
+      "ratings": 4.5,
+      "category_id": 5,
+      "material_type": "Rubber",
+      "size": "28mm",
+      "image_url": "https://cdn2.chrono24.com/images/uhren/27277018-gygcifkkn54k45a1l4bux1ko-ExtraLarge.jpg"
+    },
+    {
+      "id": 6,
+      "brand_id": 2,
+      "name": "Omega Seamaster",
+      "price_range": "$9000",
+      "ratings": 4.5,
+      "category_id": 1,
+      "material_type": "Stainless Steel",
+      "size": "28mm",
+      "image_url": "https://cdn2.chrono24.com/images/uhren/23089496-znuu4l1dexyvrm85kt6e3zqy-ExtraLarge.jpg"
+    },
+    {
+      "id": 7,
+      "brand_id": 2,
+      "name": "Omega Speedmaster",
+      "price_range": "$11000",
+      "ratings": 4.5,
+      "category_id": 3,
+      "material_type": "Stainless Steel",
+      "size": "32mm",
+      "image_url": "https://cdn2.chrono24.com/images/uhren/28709376-56gqnittc6lwuy2s20neypxg-ExtraLarge.jpg"
+    },
+    {
+      "id": 8,
+      "brand_id": 2,
+      "name": "Omega Constellation",
+      "price_range": "$10000",
+      "ratings": 4.5,
+      "category_id": 2,
+      "material_type": "Leather",
+      "size": "32mm",
+      "image_url": "https://www.omegawatches.com/media/catalog/product/cache/1aabecb660f41d442cd0d5ab25ac9e35625410af5781f1ff41d531c351132aa8/o/m/omega-constellation-co-axial-master-chronometer-41-mm-13133412104001-list-d1e61a.jpg"
+    },
+    {
+      "id": 9,
+      "brand_id": 2,
+      "name": "Omega De Ville",
+      "price_range": "$5000",
+      "ratings": 4.5,
+      "category_id": 5,
+      "size": "34mm",
+      "material_type": "Leather",
+      "image_url": "https://www.omegawatches.com/media/catalog/product/cache/e7984e6883c65585a016084208a7f1f23dbda14c55ba5f81dd86443eff42d1f8/o/m/omega-de-ville-prestige-co-axial-chronometer-395_mm-42453402004005-list-917be8.jpg"
+    },
+    {
+      "id": 10,
+      "brand_id": 2,
+      "name": "Omega Aqua Terra",
+      "price_range": "$4000",
+      "ratings": 4.5,
+      "category_id": 5,
+      "material_type": "Rubber",
+      "size": "36mm",
+      "image_url": "https://www.omegawatches.com/media/catalog/category/SPE-OlympicCollection-Tokyo2020-imgSearch.jpg"
+    },
+    {
+      "id": 11,
+      "brand_id": 3,
+      "name": "Patek Philippe Calatrava",
+      "price_range": "$50000",
+      "ratings": 4.5,
+      "category_id": 2,
+      "material_type": "Leather",
+      "size": "32mm",
+      "image_url": "https://cdn2.chrono24.com/images/uhren/25480198-spxq5rjwopagwtl1w9lzi5e2-ExtraLarge.jpg"
+    },
+    {
+      "id": 12,
+      "brand_id": 3,
+      "name": "Patek Philippe Nautilus",
+      "price_range": "$100000",
+      "ratings": 4.5,
+      "category_id": 4,
+      "material_type": "Stainless Steel",
+      "size": "38mm",
+      "image_url": "https://cdn2.chrono24.com/images/uhren/29632926-chu6nwg7cm15t3k8ecp0w0co-ExtraLarge.jpg"
+    },
+    {
+      "id": 13,
+      "brand_id": 3,
+      "name": "Patek Philippe Aquanaut",
+      "price_range": "$150000",
+      "ratings": 4.5,
+      "category_id": 5,
+      "material_type": "Rubber",
+      "size": "38mm",
+      "image_url": "https://static.patek.com/images/articles/face_white/330/5168G_001.jpg"
+    },
+    {
+      "id": 14,
+      "brand_id": 3,
+      "name": "Patek Philippe Complications",
+      "price_range": "$250000",
+      "ratings": 4.5,
+      "category_id": 5,
+      "material_type": "Leather",
+      "size": "28mm",
+      "image_url": "https://static.patek.com/images/articles/face_white/180/5327G_001_1.jpg"
+    },
+    {
+      "id": 15,
+      "brand_id": 3,
+      "name": "Patek Philippe Twenty-4",
+      "price_range": "$7000",
+      "ratings": 4.5,
+      "category_id": 5,
+      "material_type": "Stainless Steel",
+      "size": "34mm",
+      "image_url": "https://static.patek.com/images/articles/face_white/330/7300_1200A_011_1.jpg"
+    },
+    {
+      "id": 16,
+      "brand_id": 4,
+      "name": "Audemars Piguet Royal Oak",
+      "price_range": "$30000",
+      "ratings": 4.5,
+      "category_id": 4,
+      "material_type": "Leather",
+      "size": "38mm",
+      "image_url": "https://www.audemarspiguet.com/content/dam/ap/com/products/watches/MTR010323AA/importer/standup.png.transform.approductmain.png"
+    },
+    {
+      "id": 17,
+      "brand_id": 4,
+      "name": "Audemars Piguet Royal Oak Offshore",
+      "price_range": "$100000",
+      "ratings": 4.5,
+      "category_id": 4,
+      "material_type": "Stainless Steel",
+      "size": "40mm",
+      "image_url": "https://www.audemarspiguet.com/content/dam/ap/com/products/watches/MTR008841.00/importer/standup.png.transform.approductmain.png"
+    },
+    {
+      "id": 18,
+      "brand_id": 4,
+      "name": "Audemars Piguet Royal Oak Concept",
+      "price_range": "$150000",
+      "ratings": 4.5,
+      "category_id": 5,
+      "material_type": "Leather",
+      "size": "36mm",
+      "image_url": "https://www.audemarspiguet.com/content/dam/ap/com/products/watches/MTR010187AA/importer/standup.png.transform.approductmain.png"
+    },
+    {
+      "id": 19,
+      "brand_id": 4,
+      "name": "Audemars Piguet Millenary",
+      "price_range": "$400000",
+      "ratings": 4.5,
+      "category_id": 5,
+      "material_type": "Leather",
+      "size": "24mm",
+      "image_url": "https://cdn2.chrono24.com/images/uhren/28601494-tx2q2lh5xlphbhx9wlt9d4ha-ExtraLarge.jpg"
+    },
+    {
+      "id": 20,
+      "brand_id": 4,
+      "name": "Audemars Piguet Royal Oak Selfwinding",
+      "price_range": "$40000",
+      "ratings": 4.5,
+      "category_id": 2,
+      "material_type": "Stainless Steel",
+      "size": "32mm",
+      "image_url": "https://www.audemarspiguet.com/content/dam/ap/com/products/watches/MTR010313AA/importer/standup.png.transform.approductmain.png"
+    },
+    {
+      "id": 21,
+      "brand_id": 5,
+      "name": "TAG Heuer Carrera",
+      "price_range": "$90000",
+      "ratings": 4.5,
+      "category_id": 4,
+      "material_type": "Leather",
+      "size": "36mm",
+      "image_url": "https://www.tagheuer.com/on/demandware.static/-/Sites-tagheuer-master/default/dw93a951b4/TAG_Heuer_Carrera/CBS2210.FC6534/CBS2210.FC6534_0913.png?impolicy=cropresize&width=480&height=480"
+    },
+    {
+      "id": 22,
+      "brand_id": 5,
+      "name": "TAG Heuer Monaco",
+      "price_range": "$120000",
+      "ratings": 4.5,
+      "category_id": 4,
+      "material_type": "Leather",
+      "size": "40mm",
+      "image_url": "https://www.tagheuer.com/on/demandware.static/-/Sites-tagheuer-master/default/dw97314041/TAG_Heuer_Monaco/CBL2182.FT6235/CBL2182.FT6235_0913.png?impolicy=cropresize&width=480&height=480"
+    },
+    {
+      "id": 23,
+      "brand_id": 5,
+      "name": "TAG Heuer Aquaracer",
+      "price_range": "$350000",
+      "ratings": 4.5,
+      "category_id": 1,
+      "material_type": "Stainless Steel",
+      "size": "36mm",
+      "image_url": "https://www.tagheuer.com/on/demandware.static/-/Sites-tagheuer-master/default/dw581c96c9/TAG_Heuer_Aquaracer/WBP2110.BA0627/WBP2110.BA0627_0913.png?impolicy=cropresize&width=480&height=480"
+    },
+    {
+      "id": 24,
+      "brand_id": 5,
+      "name": "TAG Heuer Formula 1",
+      "price_range": "$25000",
+      "ratings": 4.5,
+      "category_id": 4,
+      "material_type": "Stainless Steel",
+      "size": "38mm",
+      "image_url": "https://www.tagheuer.com/on/demandware.static/-/Sites-tagheuer-master/default/dw3e5c329d/TAG_Heuer_Formula_1/WAZ2011.BA0843/WAZ2011.BA0843_0913.png?impolicy=cropresize&width=480&height=480"
+    },
+    {
+      "id": 25,
+      "brand_id": 5,
+      "name": "TAG Heuer Autavia",
+      "price_range": "$80000",
+      "ratings": 4.5,
+      "category_id": 5,
+      "material_type": "Leather",
+      "size": "32mm",
+      "image_url": "https://www.tagheuer.com/on/demandware.static/-/Sites-tagheuer-master/default/dwb4f9cf94/TAG_Heuer_Autavia/CBE511C.FC8280/CBE511C.FC8280_0913.png?impolicy=cropresize&width=480&height=480"
+    },
+    {
+      "id": 26,
+      "brand_id": 6,
+      "name": "Seiko Prospex Diver",
+      "price_range": "$4000",
+      "ratings": 4.5,
+      "category_id": 1,
+      "material_type": "Rubber",
+      "size": "36mm",
+      "image_url": "https://www.seikowatches.com/in-en/-/media/HtmlUploader/India/Seiko/Home/products/prospex/special/1968-savetheocean/assets/image/2021.jpg"
+    },
+    {
+      "id": 27,
+      "brand_id": 6,
+      "name": "Seiko Presage",
+      "price_range": "$7000",
+      "ratings": 4.5,
+      "category_id": 2,
+      "material_type": "Stainless Steel",
+      "size": "36mm",
+      "image_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmIJRHrwhhSN6_4Aa8iq9BGygXl2ZTMoAfu1iTbJ40Ah-L-GIR"
+    },
+    {
+      "id": 28,
+      "brand_id": 6,
+      "name": "Seiko Astron",
+      "price_range": "$2000",
+      "ratings": 4.5,
+      "category_id": 5,
+      "material_type": "Stainless Steel",
+      "size": "38mm",
+      "image_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTUyQTK0ztdSuMVsyZFEhh10tg7IrxXSpy1dvD-KeQA2Bgjqds"
+    },
+    {
+      "id": 29,
+      "brand_id": 6,
+      "name": "Seiko 5 Sports",
+      "price_range": "$2500",
+      "ratings": 4.5,
+      "category_id": 4,
+      "material_type": "Stainless Steel",
+      "size": "28mm",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1XH3P979kP-rHvqlnSBDc7DeMIUR5OTn3WhJlcM7RTHt-LTiG"
+    },
+    {
+      "id": 30,
+      "brand_id": 6,
+      "name": "Seiko Premier",
+      "price_range": "$6000",
+      "ratings": 4.5,
+      "category_id": 2,
+      "size": "40mm",
+      "material_type": "Stainless Steel",
+      "image_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2neYkp3uIri7c44U1eMPfyLLnuAQGiRkieAjXmdwPSu5ZJpIk"
+    },
+    {
+      "id": 31,
+      "brand_id": 7,
+      "name": "Citizen Eco-Drive",
+      "price_range": "$800",
+      "ratings": 4.5,
+      "category_id": 5,
+      "material_type": "Rubber",
+      "size": "28mm",
+      "image_url": "https://citizenwatch.widen.net/content/yujaf5oj6z/png/World+Chronograph+A-T.png?u=41zuoe&width=400&height=400&quality=80&crop=false&keep=c&color=FFFFFF00"
+    },
+    {
+      "id": 32,
+      "brand_id": 7,
+      "name": "Citizen Promaster",
+      "price_range": "$400",
+      "ratings": 4.5,
+      "category_id": 1,
+      "material_type": "Stainless Steel",
+      "size": "36mm",
+      "image_url": "https://citizenwatch.widen.net/content/qsixi1olnt/png/Promaster+Tsuno+Chrono+Racer.png?u=41zuoe&width=400&height=400&quality=80&crop=false&keep=c&color=FFFFFF00"
+    },
+    {
+      "id": 33,
+      "brand_id": 7,
+      "name": "Citizen Chandler",
+      "price_range": "$1000",
+      "ratings": 4.5,
+      "category_id": 5,
+      "material_type": "Rubber",
+      "size": "24mm",
+      "image_url": "https://citizenwatch.widen.net/content/gzoliud0hm/png/Garrison.png?u=41zuoe&width=400&height=400&quality=80&crop=false&keep=c&color=FFFFFF00"
+    },
+    {
+      "id": 34,
+      "brand_id": 7,
+      "name": "Citizen Corso",
+      "price_range": "$250",
+      "ratings": 4.5,
+      "category_id": 2,
+      "material_type": "Stainless Steel",
+      "size": "28mm",
+      "image_url": "https://citizenwatch.widen.net/content/yyfxhdnzun/png/Corso.png?u=41zuoe&width=400&height=400&quality=80&crop=false&keep=c&color=FFFFFF00"
+    },
+    {
+      "id": 35,
+      "brand_id": 7,
+      "name": "Citizen Paradex",
+      "price_range": "$500",
+      "ratings": 4.5,
+      "category_id": 5,
+      "material_type": "Leather",
+      "size": "32mm",
+      "image_url": "https://citizenwatch.widen.net/content/el5ixtuecp/png/Paradex.png?u=41zuoe&width=400&height=400&quality=80&crop=false&keep=c&color=FFFFFF00"
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "name": "Rolex"
+    },
+    {
+      "id": 2,
+      "name": "Omega"
+    },
+    {
+      "id": 3,
+      "name": "Patek Philippe"
+    },
+    {
+      "id": 4,
+      "name": "Audemars Piguet"
+    },
+    {
+      "id": 5,
+      "name": "TAG Heuer"
+    },
+    {
+      "id": 6,
+      "name": "Seiko"
+    },
+    {
+      "id": 7,
+      "name": "Citizen"
+    },
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Luxury Dive Watch"
+    },
+    {
+      "id": 2,
+      "name": "Luxury Dress Watch"
+    },
+    {
+      "id": 3,
+      "name": "Luxury Chronograph Watch"
+    },
+    {
+      "id": 4,
+      "name": "Luxury Sports Watch"
+    },
+    {
+      "id": 5,
+      "name": "Luxury Other Watch"
+    }
+  ],
+  "order": [
+   
+  ]
+}
